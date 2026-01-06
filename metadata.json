@@ -1,0 +1,7 @@
+{
+  "name": "Nur Al-Quran - High Fidelity Listening",
+  "description": "A premium, dark-themed Quran listening experience with beautiful recitations from the world's best Qaris, inspired by luxury design aesthetics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
